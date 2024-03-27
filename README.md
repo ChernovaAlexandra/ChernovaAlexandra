@@ -30,7 +30,8 @@
 
 ### Примеры автотестов
 
-## Сертификат
-### Smartup School 
+<div id="test">
+<ul> <li><a href = "https://github.com/ChernovaAlexandra/E2E-and-API" > E2E and API </a> </li> </ul>
+</div>
 
 
